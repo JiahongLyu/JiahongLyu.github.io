@@ -28,5 +28,6 @@
 <ul style="margin:0 0 5px;">
   <li><strong>Email:</strong> kerwin19975906776@outlook.com</li>
   <li><strong>GitHub:</strong> <a href="https://github.com/JiahongLyu">JiahongLyu</a></li>
+  <li><strong>WeChat:</strong> 19975906776</li>
   <li><strong>Location:</strong> Shanghai, China</li>
 </ul>
