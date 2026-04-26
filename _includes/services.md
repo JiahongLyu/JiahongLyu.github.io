@@ -10,7 +10,7 @@
 <h2 id="skills" style="margin: 14px 0px 8px;">Skills</h2>
 
 <ul style="margin:0 0 12px;">
-  <li><strong>Programming:</strong> Python, C / C++, PyTorch, Triton</li>
+  <li><strong>Programming:</strong> Python, C, PyTorch, Triton</li>
   <li><strong>Languages:</strong> Mandarin Chinese (native); English &mdash; CET-6: 515, CET-4: 571</li>
 </ul>
 
