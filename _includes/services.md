@@ -1,28 +1,32 @@
-## Services
+<h2 id="projects" style="margin: 2px 0px 8px;">Projects</h2>
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML), 2026</autocolor></a></li>
-  <li><a href="https://kdd.org/"><autocolor>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025, 2026</autocolor></a></li>
-  <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR), 2026</autocolor></a></li>
-  <li><a href="https://2024.acmmm.org/"><autocolor>ACM Multimedia (ACM MM) 2024</autocolor></a></li>
+<h4 style="margin:0 10px 4px;">LLM Fine-tuning and Multi-Agent Debate System (Qwen2.5-7B)</h4>
+<ul style="margin:0 0 12px;">
+  <li>Fine-tuned Qwen2.5-7B on custom instruction data to enhance multi-turn reasoning and argumentation.</li>
+  <li>Designed a multi-agent debate framework with role-based prompting and structured interaction protocols.</li>
+  <li>Built data construction and supervised fine-tuning pipelines to improve response coherence and logical consistency.</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h2 id="skills" style="margin: 14px 0px 8px;">Skills</h2>
 
-<ul style="margin:0 0 5px;">
-  <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor>Knowledge-Based Systems (KBS)</autocolor></a></li>
+<ul style="margin:0 0 12px;">
+  <li><strong>Programming:</strong> Python, C / C++, PyTorch, Triton</li>
+  <li><strong>Languages:</strong> Mandarin Chinese (native); English &mdash; CET-6: 515, CET-4: 571</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Teaching Experiences</h4>
+<h2 id="materials" style="margin: 14px 0px 8px;">Application Materials</h2>
+
 <ul style="margin:0 0 5px;">
-  <li>Teaching Assistant, <a href="https://github.com/hongfangao/Data_Platform"><span style="color: #1A73E8">Data Platform</span></a>, Fall 2023,2024, Spring 2024,2025,2026 (for full-time and part-time postgraduate students) Prof. <a href="https://hujilin1229.github.io"><span style="color: #1A73E8">Jilin Hu</span></a></li>
+  <li><a href="./assets/files/Jiahong_Lyu_CV.pdf"><autocolor>Curriculum Vitae (CV)</autocolor></a></li>
+  <li><a href="./assets/files/transcript.pdf"><autocolor>Official Transcript</autocolor></a></li>
+  <li><a href="./assets/files/gpa_proof.pdf"><autocolor>GPA Verification</autocolor></a></li>
+  <li><a href="./assets/files/grading_notes.pdf"><autocolor>Grading System Explanation (CN / EN)</autocolor></a></li>
 </ul>
 
-<!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h2 id="contact" style="margin: 14px 0px 8px;">Contact</h2>
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul> -->
+<ul style="margin:0 0 5px;">
+  <li><strong>Email:</strong> kerwin19975906776@outlook.com</li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/manchestersskyisred">manchestersskyisred</a></li>
+  <li><strong>Location:</strong> Shanghai, China</li>
+</ul>
