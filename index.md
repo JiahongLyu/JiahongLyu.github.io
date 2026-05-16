@@ -16,7 +16,8 @@ Efficient AI; Long-Context Extension; Inference Acceleration; Linear Attention; 
 
 ## News
 
-- **[Mar. 2026]** **PolarFormer** submitted to KDD 2026 Research Track (under review).
+- **[May 2026]** **PolarFormer** accepted to **KDD 2026** Research Track.
+- **[Feb. 2026]** **PolarFormer** submitted to KDD 2026 Research Track.
 
 {% include_relative _includes/publications.md %}
 
